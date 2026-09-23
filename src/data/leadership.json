@@ -1,0 +1,131 @@
+[
+  {
+    "slug": "dr-samuel-bekele",
+    "name": "Dr. Samuel Bekele",
+    "role": "Group Chief Executive Officer",
+    "department": "Executive Committee",
+    "photo": "/images/leadership/leader-tadesse.jpg",
+    "bio": "Dr. Samuel Bekele has served as Group CEO since 2014, leading Asterra's transition from a regional steel fabricator into a four-division diversified manufacturing conglomerate. He previously held senior manufacturing leadership roles at global engineering firms in Germany and the United States before returning to lead Asterra's industrial modernization.",
+    "governanceQuote": "Sustainable industrialization requires disciplined capital allocation, relentless operational precision, and an uncompromising commitment to international quality standards.",
+    "education": [
+      "Ph.D. in Industrial Engineering & Operations — Massachusetts Institute of Technology (MIT)",
+      "M.Sc. in Operations Research — Stanford University",
+      "B.Sc. in Mechanical Engineering (First Class Honours) — Addis Ababa University"
+    ],
+    "credentials": [
+      "Fellow, Institution of Mechanical Engineers (FIMechE)",
+      "Chartered Professional Engineer (CPEng)",
+      "Executive Board Member, Ethiopian Manufacturers Association"
+    ],
+    "careerHighlights": [
+      "Engineered Asterra's 10-year capital modernization strategy, resulting in a 400% capacity expansion.",
+      "Established direct industrial export corridors into 14 countries across COMESA and the Middle East.",
+      "Pioneered the Asterra Technical Apprenticeship Academy, training over 800 certified welders and machinists."
+    ],
+    "tenureYears": 14,
+    "directorships": [
+      "Asterra Industrial Manufacturing S.C.",
+      "Eastern African Logistics & Infrastructure Council"
+    ],
+    "linkedInUrl": "https://linkedin.com/in/dr-samuel-bekele"
+  },
+  {
+    "slug": "eng-selam-haile",
+    "name": "Eng. Selam Haile",
+    "role": "Chief Technology Officer & Engineering Director",
+    "department": "Executive Committee",
+    "photo": "/images/leadership/leader-selam.jpg",
+    "bio": "Eng. Selam Haile leads group-wide engineering design, quality assurance laboratories, and automated manufacturing research. With over 18 years of metallurgical and structural design expertise, she holds European Welding Engineer (EWE) certification and oversees Asterra's ISO execution compliance.",
+    "governanceQuote": "Engineering credibility is not measured in marketing claims; it is proven in destructive tensile testing labs, sub-millimeter laser scans, and 50-year structural fatigue endurance.",
+    "education": [
+      "M.Sc. in Advanced Structural Engineering — Imperial College London",
+      "B.Sc. in Civil & Structural Engineering — Addis Ababa University"
+    ],
+    "credentials": [
+      "European Welding Engineer (EWE / IWE)",
+      "Registered Professional Structural Engineer",
+      "ISO 9001 Lead Quality Auditor"
+    ],
+    "careerHighlights": [
+      "Directed the engineering qualification and WPS/PQR certifications for the Awash Freight Overpass.",
+      "Implemented plant-wide digital QA traceability tracking every steel plate from mill certificate to final weld.",
+      "Authored 6 published technical whitepapers on high-strength alloy behavior in tropical climates."
+    ],
+    "tenureYears": 11,
+    "linkedInUrl": "https://linkedin.com/in/eng-selam-haile"
+  },
+  {
+    "slug": "dawit-tadesse",
+    "name": "Dawit Tadesse",
+    "role": "Chief Operating Officer",
+    "department": "Executive Committee",
+    "photo": "/images/leadership/leader-yohannes.jpg",
+    "bio": "Dawit Tadesse oversees operational execution across Asterra's four production plants. He specializes in lean manufacturing, supply chain optimization, and facility expansion, ensuring on-time delivery across multi-thousand-ton contractual manufacturing orders.",
+    "governanceQuote": "Plant productivity is the harmonic alignment of automated tooling, predictable raw material logistics, and an uncompromising standard of workplace safety.",
+    "education": [
+      "MBA in Operations & Supply Chain — University of Cambridge",
+      "B.Sc. in Industrial Management — Addis Ababa University"
+    ],
+    "credentials": [
+      "Six Sigma Master Black Belt (CSSMBB)",
+      "Certified Supply Chain Professional (CSCP - APICS)"
+    ],
+    "careerHighlights": [
+      "Reduced plant cycle time by 32% while simultaneously achieving a 5-year zero-harm safety record.",
+      "Negotiated long-term international raw material supply agreements ensuring 99.4% plant uptime.",
+      "Commissioned Division 02's automated steam-cured precast plant 3 months ahead of schedule."
+    ],
+    "tenureYears": 9,
+    "linkedInUrl": "https://linkedin.com/in/dawit-tadesse"
+  },
+  {
+    "slug": "helen-girum",
+    "name": "Helen Girum",
+    "role": "Chief Financial Officer",
+    "department": "Executive Committee",
+    "photo": "/images/leadership/leader-meron.jpg",
+    "bio": "Helen Girum directs financial strategy, capital allocation, risk governance, and investor relations for Asterra Group. She brings 16 years of corporate finance and private equity experience across sub-Saharan industrial infrastructure.",
+    "governanceQuote": "Prudent financial governance underpins industrial resilience, ensuring continuous capital reinvestment across changing macroeconomic cycles.",
+    "education": [
+      "M.Sc. in Finance & Accounting — London School of Economics (LSE)",
+      "B.A. in Economics — AAU"
+    ],
+    "credentials": [
+      "FCCA (Fellow, Association of Chartered Certified Accountants)",
+      "CFA Charterholder"
+    ],
+    "careerHighlights": [
+      "Structured Asterra's $45M syndicated facility for automated CNC and laser equipment expansion.",
+      "Maintained pristine corporate credit rating across 10 consecutive financial audits.",
+      "Implemented enterprise-wide ERP financial governance across all four manufacturing subsidiaries."
+    ],
+    "tenureYears": 7,
+    "linkedInUrl": "https://linkedin.com/in/helen-girum"
+  },
+  {
+    "slug": "prof-alemu-worku",
+    "name": "Prof. Alemu Worku",
+    "role": "Independent Chairman of the Board",
+    "department": "Board of Directors",
+    "photo": "/images/leadership/leader-daniel.jpg",
+    "bio": "Prof. Alemu Worku is an internationally recognized authority in materials science and industrial policy. He serves as Independent Board Chairman, ensuring rigorous corporate governance, fiduciary responsibility, and alignment with national industrial strategies.",
+    "governanceQuote": "A board's duty is to safeguard institutional integrity, hold executive leadership to the highest ethical and technical benchmarks, and steward value for future generations.",
+    "education": [
+      "Ph.D. in Materials Science — ETH Zurich",
+      "B.Sc. in Physics & Chemistry — AAU"
+    ],
+    "credentials": [
+      "Emeritus Professor of Metallurgy",
+      "Senior Advisor to United Nations Industrial Development Organization (UNIDO)"
+    ],
+    "careerHighlights": [
+      "Authored pivotal national industrialization frameworks on metallurgical manufacturing capability.",
+      "Chairs Asterra's Audit and ESG Governance Committees."
+    ],
+    "tenureYears": 8,
+    "directorships": [
+      "Asterra Group Holding",
+      "National Materials Research Institute"
+    ]
+  }
+]

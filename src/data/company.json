@@ -1,0 +1,143 @@
+{
+  "name": "Asterra Manufacturing Group",
+  "legalName": "Asterra Industrial Manufacturing & Engineering S.C.",
+  "tagline": "Precision Engineering at Industrial Scale",
+  "foundingYear": 1998,
+  "overview": "Asterra Manufacturing Group is a diversified industrial manufacturing and export organization. With four specialized operating divisions, advanced automated fabrication facilities, and over 1,450 engineering and production specialists, Asterra delivers precision structural steel, heavy industrial materials, composite building systems, and contract components across regional and international trade corridors.",
+  "heritageStory": "Founded in 1998 in Addis Ababa as a specialized metal fabrication shop, Asterra has grown through disciplined capital reinvestment, technological modernization, and unwavering adherence to international quality standards. Today, Asterra operates 68,000 m² of covered plant infrastructure across multiple industrial zones, supplying high-tensile components and infrastructure solutions to major transport, energy, and commercial projects across 14 export markets.",
+  "mission": "To advance regional industrial capability through automated precision manufacturing, rigorous quality assurance, and sustainable operational stewardship.",
+  "vision": "To be East Africa's leading diversified industrial manufacturer, recognized globally for technical excellence, dependable delivery, and sustainable engineering.",
+  "coreValues": [
+    {
+      "title": "Industrial Precision",
+      "description": "Sub-millimeter tolerances and strict adherence to international metallurgical and structural standards in every production cycle."
+    },
+    {
+      "title": "Operational Integrity",
+      "description": "Transparent governance, verifiable quality testing, and enduring long-term partnerships with institutional clients and supply chains."
+    },
+    {
+      "title": "Safety & Human Capital",
+      "description": "Zero-harm workplace culture, continuous technical apprenticeships, and rigorous ISO 45001 occupational safety governance."
+    },
+    {
+      "title": "Environmental Stewardship",
+      "description": "Energy-efficient production lines, closed-loop scrap recycling, and ISO 14001 certified environmental management systems."
+    }
+  ],
+  "milestones": [
+    {
+      "year": 1998,
+      "title": "Foundation in Addis Ababa",
+      "description": "Established as a specialized custom metalworking workshop with 24 technicians."
+    },
+    {
+      "year": 2005,
+      "title": "First Heavy Structural Plant",
+      "description": "Commissioned 12,000 m² automated structural steel plant in Industrial Zone 4."
+    },
+    {
+      "year": 2012,
+      "title": "ISO 9001:2008 Accreditation",
+      "description": "Attained first international quality management certification for heavy welding."
+    },
+    {
+      "year": 2017,
+      "title": "Launch of Division 02 & Export Expansion",
+      "description": "Expanded into precast building materials and commenced cross-border exports to Djibouti and Kenya."
+    },
+    {
+      "year": 2021,
+      "title": "Modern CNC Automation Upgrade",
+      "description": "Invested $18M in fiber laser cutting, robotic welding gantries, and automated plate bending systems."
+    },
+    {
+      "year": 2024,
+      "title": "Group Restructuring & 120,000 MT Milestone",
+      "description": "Unified 4 distinct manufacturing entities into Asterra Manufacturing Group, surpassing 120,000 MT annual production capacity."
+    }
+  ],
+  "headquarters": {
+    "address": "Asterra Corporate Towers, Plot 48, Industrial Zone 4",
+    "city": "Addis Ababa",
+    "country": "Ethiopia",
+    "postalCode": "P.O. Box 1024",
+    "coordinates": {
+      "lat": 8.9806,
+      "lng": 38.7578
+    }
+  },
+  "contact": {
+    "generalEmail": "inquiries@asterragroup.com",
+    "procurementEmail": "procurement@asterragroup.com",
+    "careersEmail": "talent@asterragroup.com",
+    "mediaEmail": "media@asterragroup.com",
+    "phonePrimary": "+251 (0) 11 555 0199",
+    "phoneSecondary": "+251 (0) 11 555 0200",
+    "operatingHours": "Monday – Friday: 08:00 – 17:30 EAT"
+  },
+  "globalFootprint": {
+    "plantsCount": 4,
+    "totalPlantAreaSqM": "68,000 m²",
+    "annualProductionCapacity": "120,000 MT",
+    "workforceTotal": "1,450+",
+    "exportCountriesCount": 14,
+    "activeMarkets": [
+      "Ethiopia",
+      "Djibouti",
+      "Kenya",
+      "Uganda",
+      "Rwanda",
+      "Tanzania",
+      "South Sudan",
+      "UAE",
+      "Saudi Arabia"
+    ]
+  },
+  "certifications": [
+    {
+      "code": "ISO 9001:2015",
+      "title": "Quality Management System",
+      "issuer": "TÜV Rheinland",
+      "year": 2023
+    },
+    {
+      "code": "ISO 14001:2015",
+      "title": "Environmental Management System",
+      "issuer": "Bureau Veritas",
+      "year": 2022
+    },
+    {
+      "code": "ISO 45001:2018",
+      "title": "Occupational Health and Safety",
+      "issuer": "Bureau Veritas",
+      "year": 2023
+    },
+    {
+      "code": "EN 1090-2 (EXC3)",
+      "title": "Execution of Steel Structures & Aluminum",
+      "issuer": "European Welding Federation",
+      "year": 2021
+    },
+    {
+      "code": "AWS D1.1",
+      "title": "Structural Welding Code — Steel",
+      "issuer": "American Welding Society",
+      "year": 2020
+    }
+  ],
+  "socialLinks": [
+    {
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/company/asterra-manufacturing-group"
+    },
+    {
+      "platform": "twitter",
+      "url": "https://twitter.com/AsterraGroup"
+    },
+    {
+      "platform": "youtube",
+      "url": "https://youtube.com/@AsterraManufacturing"
+    }
+  ]
+}

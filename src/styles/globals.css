@@ -1,0 +1,295 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-primary: #173A35;
+    --color-primary-hover: #22564F;
+    --color-primary-active: #102A27;
+    --color-secondary: #3E5A58;
+    --color-accent: #4F7C84;
+    --color-accent-hover: #3E666D;
+    --color-ink: #202B29;
+    --color-body: #46514F;
+    --color-muted: #76807D;
+    --color-canvas: #F3F0E8;
+    --color-surface: #FFFFFF;
+    --color-border: #D9DDD8;
+    --color-border-strong: #B8C2BD;
+  }
+
+  /* Optimize touch and rendering */
+  html {
+    -webkit-tap-highlight-color: transparent;
+    scroll-behavior: smooth;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    background-color: var(--color-canvas);
+    color: var(--color-body);
+    font-family: 'IBM Plex Sans', 'Plus Jakarta Sans', sans-serif;
+    line-height: 1.6;
+    overflow-x: hidden;
+    touch-action: manipulation;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: var(--color-ink);
+    letter-spacing: -0.015em;
+  }
+
+  /* Default focus indicator for keyboard accessibility */
+  :focus-visible {
+    outline: 2px solid var(--color-accent);
+    outline-offset: 2px;
+  }
+
+  /* Selection highlight conforming to brand deep evergreen */
+  ::selection {
+    background-color: #173A35;
+    color: #F3F0E8;
+  }
+}
+
+@layer components {
+  /* Container system conforming to Asterra design manual */
+  .container-corporate {
+    width: 100%;
+    max-width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  @screen sm {
+    .container-corporate {
+      padding-left: 1.5rem;
+      padding-right: 1.5rem;
+    }
+  }
+
+  @screen md {
+    .container-corporate {
+      padding-left: 2rem;
+      padding-right: 2rem;
+    }
+  }
+
+  @screen lg {
+    .container-corporate {
+      padding-left: 3rem;
+      padding-right: 3rem;
+    }
+  }
+
+  /* Editorial Card Component (Hover effects only for mouse pointers) */
+  .card-corporate {
+    background-color: #FFFFFF;
+    border: 1px solid var(--color-border);
+    transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  @media (hover: hover) and (pointer: fine) {
+    .card-corporate:hover {
+      border-color: var(--color-border-strong);
+      box-shadow: 0 12px 32px -4px rgba(23, 58, 53, 0.09);
+      transform: translateY(-2px);
+    }
+  }
+
+  .card-corporate:active {
+    transform: scale(0.99);
+  }
+
+  /* Glassmorphism Panels */
+  .glass-panel-dark {
+    background: rgba(23, 58, 53, 0.92);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid rgba(255, 255, 255, 0.18);
+  }
+
+  .glass-panel-light {
+    background: rgba(255, 255, 255, 0.94);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid rgba(217, 221, 216, 0.85);
+  }
+
+  /* Monospace Eyebrow Badge */
+  .badge-mono {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.6875rem;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    font-weight: 600;
+    padding: 0.25rem 0.625rem;
+    background-color: #EBF0EE;
+    color: var(--color-primary);
+    display: inline-flex;
+    align-items: center;
+    border: 1px solid #D1DCD8;
+    white-space: nowrap;
+    transition: all 0.2s ease;
+  }
+
+  /* Primary Button */
+  .btn-primary {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    background-color: var(--color-primary);
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 0.875rem;
+    padding: 0.75rem 1.5rem;
+    border: 1px solid var(--color-primary);
+    min-height: 44px; /* Accessible touch target */
+    transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+    cursor: pointer;
+    user-select: none;
+  }
+
+  @media (hover: hover) and (pointer: fine) {
+    .btn-primary:hover {
+      background-color: var(--color-primary-hover);
+      border-color: var(--color-primary-hover);
+      box-shadow: 0 6px 18px 0 rgba(23, 58, 53, 0.25);
+      transform: translateY(-1px);
+    }
+  }
+
+  .btn-primary:active {
+    transform: scale(0.97);
+  }
+
+  /* Secondary Button */
+  .btn-secondary {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    background-color: transparent;
+    color: var(--color-primary);
+    font-weight: 600;
+    font-size: 0.875rem;
+    padding: 0.75rem 1.5rem;
+    border: 1px solid var(--color-primary);
+    min-height: 44px; /* Accessible touch target */
+    transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+    cursor: pointer;
+    user-select: none;
+  }
+
+  @media (hover: hover) and (pointer: fine) {
+    .btn-secondary:hover {
+      background-color: #EBF0EE;
+      color: var(--color-primary-hover);
+      border-color: var(--color-primary-hover);
+      transform: translateY(-1px);
+    }
+  }
+
+  .btn-secondary:active {
+    transform: scale(0.97);
+  }
+
+  /* Image Loading Blueprint Shimmer */
+  .skeleton-shimmer {
+    background: linear-gradient(90deg, #EBF0EE 0%, #F3F0E8 50%, #EBF0EE 100%);
+    background-size: 200% 100%;
+    animation: shimmer 1.8s infinite;
+  }
+
+  /* Mobile Horizontal Scroll Strip with Hide Scrollbar */
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+
+  /* Custom subtle scrollbar */
+  .custom-scrollbar::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+  .custom-scrollbar::-webkit-scrollbar-track {
+    background: #EBF0EE;
+  }
+  .custom-scrollbar::-webkit-scrollbar-thumb {
+    background: #4F7C84;
+    border-radius: 3px;
+  }
+  .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    background: #22564F;
+  }
+
+  /* Touch Interactive Pill Active State */
+  .interactive-pill-active {
+    background-color: var(--color-primary);
+    color: #FFFFFF;
+    border-color: var(--color-primary);
+    box-shadow: 0 2px 8px rgba(23, 58, 53, 0.2);
+  }
+
+  /* Subtle technical grid background */
+  .bg-grid-pattern {
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.05) 1px, transparent 1px),
+                      linear-gradient(to bottom, rgba(0, 0, 0, 0.05) 1px, transparent 1px);
+    background-size: 32px 32px;
+  }
+
+  .bg-grid-pattern-dark {
+    background-image: linear-gradient(to right, rgba(255, 255, 255, 0.06) 1px, transparent 1px),
+                      linear-gradient(to bottom, rgba(255, 255, 255, 0.06) 1px, transparent 1px);
+    background-size: 32px 32px;
+  }
+}
+
+/* Keyframe animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: 200% 0;
+  }
+  100% {
+    background-position: -200% 0;
+  }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.25s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.animate-slideDown {
+  animation: slideDown 0.2s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}

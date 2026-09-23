@@ -1,0 +1,171 @@
+[
+  {
+    "slug": "awash-heavy-rail-overpass",
+    "title": "Awash Heavy Rail Transit Overpass",
+    "subtitle": "Fabrication and precision erection of 14,200 metric tons of continuous curved box girders",
+    "client": "National Railway Corporation",
+    "clientCategory": "Municipal Infrastructure",
+    "sector": "Transport & Rail",
+    "year": 2023,
+    "location": "Awash Freight Corridor, Ethiopia",
+    "businessUnitSlug": "precision-metals-fabrication",
+    "heroImage": "/images/projects/project-awash-hero.jpg",
+    "galleryImages": [
+      "/images/projects/project-awash-1.jpg",
+      "/images/projects/project-awash-2.jpg",
+      "/images/projects/project-awash-3.jpg"
+    ],
+    "challenge": "The Awash Freight rail link required 14,200 metric tons of heavy structural steel girders to cross active railway intersections without disrupting existing bulk cargo traffic. The geometry required complex curved box sections with strict ultrasonic weld integrity tolerances under dynamic 30-ton axle loads.",
+    "solution": "Division 01 engineered 48-meter modular box sections in-plant using automated tandem submerged arc welding gantries. Complete trial assembly and 3D laser geometric scans were conducted in our Addis Ababa fabrication yard prior to heavy convoy transport.",
+    "engineeringExecution": "By manufacturing 48m monolithic spans with pre-installed splice plates and applying a 3-layer zinc/epoxy/polyurethane protective system in a controlled climate booth, site assembly crane time was reduced by 60%, minimizing rail corridor shutdowns to 48-hour weekend windows.",
+    "results": [
+      {
+        "metric": "14,200 MT",
+        "label": "Fabricated Steel Weight",
+        "context": "100% full penetration welds verified via radiographic inspection"
+      },
+      {
+        "metric": "4 Weeks",
+        "label": "Ahead of Schedule",
+        "context": "Delivered in 14 months against an 18-month contractual milestone"
+      },
+      {
+        "metric": "99.8%",
+        "label": "First-Time NDT Pass Rate",
+        "context": "Zero structural defects recorded across 3,200 tested weld seams"
+      },
+      {
+        "metric": "50+ Years",
+        "label": "Design Fatigue Life",
+        "context": "Engineered for 32.5-ton axle dynamic freight traffic"
+      }
+    ],
+    "certificationsApplied": [
+      "EN 1090-2 (EXC3 Execution Class)",
+      "AWS D1.1 Structural Welding Standard",
+      "ISO 9001:2015 Quality Management"
+    ],
+    "isFlagship": true
+  },
+  {
+    "slug": "dire-dawa-industrial-steel-terminal",
+    "title": "Dire Dawa International Trade Terminal",
+    "subtitle": "Complete turnkey structural steel framing, long-span trusses, and automated crane runways",
+    "client": "Industrial Parks Development Corporation (IPDC)",
+    "clientCategory": "Heavy Industry",
+    "sector": "Industrial Logistics",
+    "year": 2022,
+    "location": "Dire Dawa Free Trade Zone, Ethiopia",
+    "businessUnitSlug": "precision-metals-fabrication",
+    "heroImage": "/images/projects/project-diredawa-hero.jpg",
+    "galleryImages": [
+      "/images/projects/project-diredawa-1.jpg"
+    ],
+    "challenge": "Construction of a 42,000 m² covered logistics warehouse requiring 36m clear-span overhead crane runways capable of supporting dual 50-ton gantry cranes operating in continuous shifts.",
+    "solution": "Division 01 and Division 04 collaborated to engineer heavy welded plate girders and motorized overhead crane rail assemblies with strict deflection limits under dynamic heavy braking forces.",
+    "engineeringExecution": "Utilized high-strength S355JR structural steel and automated CNC drilling for friction-grip bolted splices, enabling rapid crane gantry alignment within 1.5mm tolerances over 300m rail lengths.",
+    "results": [
+      {
+        "metric": "8,600 MT",
+        "label": "Structural Steel Fabricated",
+        "context": "Covering 42,000 m² clear-span industrial floor space"
+      },
+      {
+        "metric": "50 Tons",
+        "label": "Crane Runway Rating",
+        "context": "Continuous dynamic fatigue rated crane runway beams"
+      },
+      {
+        "metric": "100%",
+        "label": "On-Budget Delivery",
+        "context": "Zero contractual cost variations across project scope"
+      }
+    ],
+    "certificationsApplied": [
+      "EN 1090-2",
+      "ISO 9001:2015"
+    ],
+    "isFlagship": false
+  },
+  {
+    "slug": "modjo-dry-port-heavy-pavement-slabs",
+    "title": "Modjo Dry Port Heavy Precast Pavements",
+    "subtitle": "Engineered precast concrete slabs designed for 100-ton container reach-stacker wheel loads",
+    "client": "Ethiopian Shipping & Logistics Services Enterprise",
+    "clientCategory": "Municipal Infrastructure",
+    "sector": "Maritime & Dry Ports",
+    "year": 2023,
+    "location": "Modjo Logistics Hub, Ethiopia",
+    "businessUnitSlug": "industrial-materials-building-products",
+    "heroImage": "/images/projects/project-gibe-hero.jpg",
+    "galleryImages": [
+      "/images/projects/project-gibe-1.jpg"
+    ],
+    "challenge": "Heavy container handling at the inland dry port caused rapid asphalt rutting and ground subsidence under 100-ton loaded reach stackers.",
+    "solution": "Division 02 engineered modular high-strength precast concrete slabs (C60/75) with interlocking steel tongue-and-groove joints that distribute extreme point loads across prepared sub-bases.",
+    "engineeringExecution": "Casting 35,000 m² of precast panels under controlled factory steam-curing conditions ensured maximum compressive strength and zero surface micro-cracking.",
+    "results": [
+      {
+        "metric": "35,000 m²",
+        "label": "Heavy Pavement Installed",
+        "context": "Installed without halting ongoing daily port operations"
+      },
+      {
+        "metric": "120 Tons",
+        "label": "Point Load Rating",
+        "context": "Rated for super-heavy reach stacker axle loads"
+      },
+      {
+        "metric": "30 Years",
+        "label": "Maintenance-Free Life",
+        "context": "Eliminates recurrent annual asphalt resurfacing costs"
+      }
+    ],
+    "certificationsApplied": [
+      "ASTM C1157",
+      "ISO 9001:2015"
+    ],
+    "isFlagship": false
+  },
+  {
+    "slug": "somali-region-water-distribution-main",
+    "title": "Somali Regional Water Transmission Main",
+    "subtitle": "Manufacturing of 142 kilometers of PE100 HDPE municipal pressure pipelines",
+    "client": "Regional Water & Energy Bureau",
+    "clientCategory": "Energy & Utilities",
+    "sector": "Water Infrastructure",
+    "year": 2024,
+    "location": "Jigjiga & Gode Corridors, Ethiopia",
+    "businessUnitSlug": "polymers-engineered-composites",
+    "heroImage": "/images/projects/project-hawassa-hero.jpg",
+    "galleryImages": [
+      "/images/projects/project-hawassa-1.jpg"
+    ],
+    "challenge": "Providing reliable bulk potable water transmission through desert terrain with high ground salinity, daytime thermal expansion, and rugged transport routes.",
+    "solution": "Division 03 manufactured 142 km of UV-stabilized PE100 high-density polyethylene pressure pipe (PN16 and PN20, diameters 250mm – 630mm) with co-extruded white outer reflective layers.",
+    "engineeringExecution": "Continuous extrusion at Plant 1 with ultrasonic wall thickness monitoring, followed by automated buttweld training and electrofusion fitting certification for local field contractors.",
+    "results": [
+      {
+        "metric": "142 km",
+        "label": "Pipeline Manufactured",
+        "context": "Delivered across 4 desert supply hubs"
+      },
+      {
+        "metric": "PN20",
+        "label": "Pressure Endurance",
+        "context": "Zero burst or leakage events during hydrostatic pressure testing"
+      },
+      {
+        "metric": "380,000+",
+        "label": "Citizens Benefited",
+        "context": "Securing clean potable water supply to arid regional communities"
+      }
+    ],
+    "certificationsApplied": [
+      "ISO 4427",
+      "DIN 8074/8075",
+      "ISO 9001:2015"
+    ],
+    "isFlagship": false
+  }
+]

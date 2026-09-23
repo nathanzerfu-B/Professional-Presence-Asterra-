@@ -1,0 +1,113 @@
+[
+  {
+    "slug": "senior-structural-welding-engineer",
+    "title": "Senior Structural Welding Engineer (IWE/EWE)",
+    "division": "Division 01 — Precision Metals & Heavy Fabrication",
+    "department": "Engineering",
+    "location": "Plant 1, Industrial Zone 4, Addis Ababa",
+    "employmentType": "Full-time Permanent",
+    "experienceLevel": "Senior (7+ Years)",
+    "closingDate": "2026-10-31",
+    "summary": "We are seeking a certified International/European Welding Engineer (IWE/EWE) to oversee welding procedure qualifications (WPS/PQR), automated tandem submerged-arc welding lines, and non-destructive examination (NDE) quality protocols for heavy bridge and industrial infrastructure projects.",
+    "responsibilities": [
+      "Develop, qualify, and maintain Welding Procedure Specifications (WPS) and Procedure Qualification Records (PQR) in accordance with EN 1090-2 (EXC3) and AWS D1.1.",
+      "Lead and supervise automated tandem submerged-arc welding (SAW) columns and robotic welding cells.",
+      "Review radiographic (RT), ultrasonic (UT), magnetic particle (MT), and liquid penetrant (PT) inspection results.",
+      "Train, mentor, and qualify production welders in conformance with ISO 9606-1 qualification standards.",
+      "Collaborate directly with third-party client inspection agencies (TÜV, Bureau Veritas, Lloyd's Register)."
+    ],
+    "qualifications": [
+      "B.Sc. or M.Sc. in Metallurgical, Materials, or Mechanical Engineering from an accredited university.",
+      "Certified International Welding Engineer (IWE) or European Welding Engineer (EWE) diploma.",
+      "Minimum 7 years of hands-on structural steel fabrication or heavy industrial manufacturing experience.",
+      "Expert proficiency in EN 1090-2, AWS D1.1, and ISO 3834-2 standards.",
+      "Strong command of professional English and Amharic technical terminology."
+    ],
+    "benefits": [
+      "Competitive executive compensation package benchmarked against international engineering standards.",
+      "Comprehensive family health insurance and medical coverage.",
+      "Annual professional continuous development, international conference attendance, and certification funding.",
+      "Company transport, modern tooling, and safety equipment provision."
+    ]
+  },
+  {
+    "slug": "lead-automation-controls-engineer",
+    "title": "Lead Automation & Robotics Controls Engineer",
+    "division": "Division 04 — Automated Equipment & Contract Assemblies",
+    "department": "Engineering",
+    "location": "Plant 4, Industrial Zone 4, Addis Ababa",
+    "employmentType": "Full-time Permanent",
+    "experienceLevel": "Lead / Principal (8+ Years)",
+    "closingDate": "2026-11-15",
+    "summary": "Lead the electrical, PLC, and robotic integration teams responsible for commissioning automated conveyor systems, CNC fiber laser cutting cells, and industrial machinery assembly lines.",
+    "responsibilities": [
+      "Program, configure, and commission Siemens S7-1500, Allen-Bradley ControlLogix, and Beckhoff PLC architectures.",
+      "Design electrical schematics and control panels in EPLAN conforming to IEC 60204-1 safety standards.",
+      "Integrate 6-axis industrial robot arms for automated welding and heavy material manipulation.",
+      "Direct Factory Acceptance Testing (FAT) and Site Acceptance Testing (SAT) for client turnkey deliveries."
+    ],
+    "qualifications": [
+      "B.Sc. or M.Sc. in Electrical, Mechatronics, or Automation Engineering.",
+      "8+ years of industrial automation and PLC programming experience in heavy manufacturing environments.",
+      "Demonstrated track record with industrial communication protocols (PROFINET, EtherCAT, Modbus TCP).",
+      "Certified functional safety engineer (TÜV Rheinland FS Eng) preferred."
+    ],
+    "benefits": [
+      "Industry-leading salary and performance-based project milestone bonuses.",
+      "Subsidized housing allowance and executive transport.",
+      "High-impact role leading national manufacturing automation."
+    ]
+  },
+  {
+    "slug": "materials-metallurgical-scientist",
+    "title": "Materials & Metallurgical Quality Scientist",
+    "division": "Division 01 & 02 Technical Labs",
+    "department": "Quality Assurance",
+    "location": "Central Materials Laboratory, Addis Ababa",
+    "employmentType": "Full-time Permanent",
+    "experienceLevel": "Mid to Senior (5+ Years)",
+    "closingDate": "2026-10-15",
+    "summary": "Manage Asterra's ISO 17025 accredited materials testing laboratory, conducting chemical spectrometry, tensile mechanical testing, Charpy impact toughness testing, and microscopic grain analysis.",
+    "responsibilities": [
+      "Operate optical emission spectrometers (OES) for carbon and alloy steel chemical analysis.",
+      "Conduct universal tensile testing (up to 1,000 kN) and Charpy V-notch impact testing at sub-zero temperatures.",
+      "Perform microstructural metallurgical grain analysis and hardness mapping across weld cross-sections.",
+      "Issue 3.1 and 3.2 Material Test Certificates in accordance with EN 10204."
+    ],
+    "qualifications": [
+      "M.Sc. or B.Sc. in Metallurgy, Materials Science, or Applied Chemistry.",
+      "5+ years of certified metallurgical testing laboratory experience.",
+      "Familiarity with ISO 17025 lab quality accreditation procedures."
+    ],
+    "benefits": [
+      "Competitive salary with performance incentives.",
+      "State-of-the-art laboratory instrumentation environment.",
+      "Comprehensive medical and life insurance."
+    ]
+  },
+  {
+    "slug": "plant-safety-esg-director",
+    "title": "Director of Occupational Health, Safety & ESG",
+    "division": "Group Headquarters",
+    "department": "Operations",
+    "location": "Addis Ababa (Group-wide travel across all 4 plants)",
+    "employmentType": "Executive Appointment",
+    "experienceLevel": "Director (10+ Years)",
+    "closingDate": "2026-11-30",
+    "summary": "Direct group-wide health, safety, environmental, and corporate sustainability systems across Asterra's four manufacturing plants, leading our continuous zero-harm workplace agenda.",
+    "responsibilities": [
+      "Lead governance and recertification for ISO 45001 (Health & Safety) and ISO 14001 (Environmental Management).",
+      "Oversee plant-wide environmental monitoring, solar energy integration, and closed-loop scrap recycling.",
+      "Direct group safety training academies and manage third-party statutory safety audits."
+    ],
+    "qualifications": [
+      "Master's Degree in Occupational Safety, Environmental Engineering, or related field.",
+      "NEBOSH National Diploma or Certified Safety Professional (CSP).",
+      "10+ years of senior safety leadership in heavy industrial or manufacturing plants."
+    ],
+    "benefits": [
+      "Executive remuneration and corporate vehicle.",
+      "Board-level strategic reporting and leadership development."
+    ]
+  }
+]

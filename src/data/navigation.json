@@ -1,0 +1,85 @@
+{
+  "primary": [
+    {
+      "label": "About",
+      "href": "/about",
+      "description": "25-year corporate story, milestones, values & governance"
+    },
+    {
+      "label": "Business Units",
+      "href": "/business",
+      "description": "4 specialized production divisions & technical plant specs",
+      "children": [
+        {
+          "label": "DIV-01: Precision Metals & Fabrication",
+          "href": "/business/precision-metals-fabrication",
+          "description": "Structural steel, CNC profiling & automated submerged-arc welding"
+        },
+        {
+          "label": "DIV-02: Industrial Materials & Building Products",
+          "href": "/business/industrial-materials-building-products",
+          "description": "UHPC panels, precast bridge beams & industrial mortars"
+        },
+        {
+          "label": "DIV-03: Polymers & Engineered Composites",
+          "href": "/business/polymers-engineered-composites",
+          "description": "HDPE pressure pipes & industrial rotomolded chemical vessels"
+        },
+        {
+          "label": "DIV-04: Automated Equipment & Assemblies",
+          "href": "/business/automated-equipment-assemblies",
+          "description": "5-axis precision machining, conveyors & contract integration"
+        }
+      ]
+    },
+    {
+      "label": "Projects",
+      "href": "/projects",
+      "description": "Flagship industrial infrastructure deliveries & verified impact"
+    },
+    {
+      "label": "Leadership",
+      "href": "/leadership",
+      "description": "Executive Committee & Board of Directors profiles"
+    },
+    {
+      "label": "Insights",
+      "href": "/insights",
+      "description": "Technical engineering whitepapers & industry market reports"
+    },
+    {
+      "label": "Careers",
+      "href": "/careers",
+      "description": "Join our 1,450+ engineering & manufacturing specialists"
+    }
+  ],
+  "utility": {
+    "ctaLabel": "Corporate Inquiry",
+    "ctaHref": "/contact",
+    "operatingHours": "Mon – Fri: 08:00 – 17:30 EAT",
+    "phone": "+251 (0) 11 555 0199",
+    "email": "inquiries@asterragroup.com"
+  },
+  "footer": {
+    "organization": [
+      { "label": "Corporate Story & History", "href": "/about" },
+      { "label": "Board of Directors & Executive Team", "href": "/leadership" },
+      { "label": "Institutional Values & Standards", "href": "/about#values" },
+      { "label": "Sustainability & ESG Governance", "href": "/about#esg" }
+    ],
+    "operations": [
+      { "label": "DIV-01: Precision Metals & Fabrication", "href": "/business/precision-metals-fabrication" },
+      { "label": "DIV-02: Industrial Materials & Precast", "href": "/business/industrial-materials-building-products" },
+      { "label": "DIV-03: Polymers & Composites", "href": "/business/polymers-engineered-composites" },
+      { "label": "DIV-04: Automated Equipment Assemblies", "href": "/business/automated-equipment-assemblies" },
+      { "label": "Industrial Case Studies Portfolio", "href": "/projects" }
+    ],
+    "connect": [
+      { "label": "Engineering Insights & Whitepapers", "href": "/insights" },
+      { "label": "Engineering & Operations Careers", "href": "/careers" },
+      { "label": "Procurement & RFQ Inquiries", "href": "/contact" },
+      { "label": "Privacy & Data Policy", "href": "/privacy" },
+      { "label": "Terms of Corporate Engagement", "href": "/terms" }
+    ]
+  }
+}

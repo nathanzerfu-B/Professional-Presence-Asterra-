@@ -1,0 +1,266 @@
+[
+  {
+    "slug": "precision-metals-fabrication",
+    "divisionCode": "DIV-01",
+    "name": "Precision Metals & Heavy Fabrication",
+    "tagline": "High-tolerance heavy structural steel, CNC profiling, and automated welding lines",
+    "heroImage": "/images/divisions/div01-hero.jpg",
+    "facilityImage": "/images/divisions/div01-facility.jpg",
+    "overview": "Division 01 operates 32,000 m² of covered heavy manufacturing floor space in Industrial Zone 4, Addis Ababa. Specializing in high-yield structural steel members, bridge girders, heavy pressure vessels, and architectural steelwork, this facility is equipped with automated submerged-arc welding columns, dual 12kW fiber laser gantries, and 80mm plate rolling capacity.",
+    "facilityLocation": "Industrial Zone 4, Addis Ababa, Ethiopia",
+    "facilitySizeSqM": "32,000 m²",
+    "annualCapacity": "85,000 MT",
+    "workforceCount": "620 Engineers & Certified Welders",
+    "certifications": [
+      "EN 1090-2 (EXC3)",
+      "AWS D1.1 Structural Welding",
+      "ISO 9001:2015",
+      "ISO 3834-2 Fusion Welding"
+    ],
+    "capabilities": [
+      {
+        "id": "cap-01",
+        "title": "CNC Laser & High-Definition Plasma Profiling",
+        "description": "Sub-millimeter profiling of carbon, stainless, and wear-resistant alloy plates up to 80mm thickness on dual 4m x 16m cutting beds.",
+        "technicalSpecs": [
+          "Dual 12kW IPG Fiber Laser cutting beds (0.5mm – 32mm)",
+          "400A High-Definition Underwater CNC Plasma (up to 80mm)",
+          "Automated CNC beveling head for pre-weld edge preparation"
+        ]
+      },
+      {
+        "id": "cap-02",
+        "title": "Automated Submerged-Arc Girder Welding",
+        "description": "Continuous welding of heavy structural I-beams, box-girders, and tapered bridge spans with ultrasonic test verification.",
+        "technicalSpecs": [
+          "Twin-wire tandem SAW welding columns with 48m travel length",
+          "Automated seam tracking and laser joint positioning",
+          "100% Non-Destructive Ultrasonic (UT) and Radiographic (RT) testing"
+        ]
+      },
+      {
+        "id": "cap-03",
+        "title": "Heavy Section Bending & Hydraulic Plate Rolling",
+        "description": "Precision cold and hot forming of heavy plates, large-diameter steel pipes, and structural tunnel rings.",
+        "technicalSpecs": [
+          "4-Roll CNC Hydraulic Plate Roll (80mm cold rolling capacity)",
+          "1,600-ton 12-meter CNC Tandem Press Brake",
+          "Section rolling for HEA, HEB, and custom hollow sections up to 600mm"
+        ]
+      },
+      {
+        "id": "cap-04",
+        "title": "Automated Shot Blasting & Industrial Coating",
+        "description": "Surface preparation to ISO 8501-1 Sa 2.5 standard followed by multi-coat epoxy and polyurethane industrial protective coatings.",
+        "technicalSpecs": [
+          "Continuous 8-wheel pass-through shot blasting chamber",
+          "Climate-controlled 48m spray and curing booth",
+          "Dry film thickness (DFT) verification and holiday testing"
+        ]
+      }
+    ],
+    "keyProducts": [
+      {
+        "name": "Heavy Box & Plate Girders",
+        "category": "Structural Infrastructure",
+        "specification": "Spans up to 48m, continuous welded, S355JR / S355J2 steel grades"
+      },
+      {
+        "name": "Industrial Plant Structural Frames",
+        "category": "Industrial Facilities",
+        "specification": "Modular bolted & welded heavy steel assemblies for power & cement plants"
+      },
+      {
+        "name": "Penstock & High-Pressure Steel Piping",
+        "category": "Energy & Utilities",
+        "specification": "Diameters from 1,200mm to 4,500mm, pressure rated to 40 bar"
+      }
+    ],
+    "featuredProjectSlugs": [
+      "awash-heavy-rail-overpass",
+      "dire-dawa-industrial-steel-terminal"
+    ],
+    "downloadableBrochureUrl": "/brochures/asterra-div01-metals.pdf"
+  },
+  {
+    "slug": "industrial-materials-building-products",
+    "divisionCode": "DIV-02",
+    "name": "Industrial Materials & Building Products",
+    "tagline": "Advanced cementitious composites, architectural precast assemblies, and infrastructure mortars",
+    "heroImage": "/images/divisions/div02-hero.jpg",
+    "facilityImage": "/images/divisions/div02-facility.jpg",
+    "overview": "Division 02 operates a modern 18,000 m² automated batching and precast fabrication terminal in Dukem Industrial Corridor. The plant produces ultra-high-performance concrete (UHPC) panels, engineered structural precast bridge beams, high-strength industrial mortars, and specialized chemical admixtures for extreme regional operating climates.",
+    "facilityLocation": "Dukem Industrial Corridor, Oromia, Ethiopia",
+    "facilitySizeSqM": "18,000 m²",
+    "annualCapacity": "45,000 MT",
+    "workforceCount": "380 Technicians & Material Scientists",
+    "certifications": [
+      "ISO 9001:2015",
+      "ASTM C150 / C1157 Compliance",
+      "EN 13369 Common Rules for Precast Products"
+    ],
+    "capabilities": [
+      {
+        "id": "cap-05",
+        "title": "Automated Batching & High-Yield Concrete Mixing",
+        "description": "Computerized batching systems with precision moisture sensor control ensuring consistency across compressive strengths from C30/37 to C80/95.",
+        "technicalSpecs": [
+          "Dual 120 m³/hr Planetary Mixing Towers",
+          "Automated dosing for microsilica, superplasticizers, and fiber reinforcements",
+          "Real-time slump and rheology laser monitoring"
+        ]
+      },
+      {
+        "id": "cap-06",
+        "title": "Prestressed Concrete Beam & Element Casting",
+        "description": "Long-line prestressing beds engineered for bridge girders, hollow-core slabs, and heavy foundation piles.",
+        "technicalSpecs": [
+          "120m long-line prestressing beds (hydraulic pull to 1,200 tons)",
+          "Steam curing acceleration tunnels for 24-hour cycle demolding",
+          "Post-tensioning cable installation and grouting facilities"
+        ]
+      },
+      {
+        "id": "cap-07",
+        "title": "Dry-Mortar & Specialized Technical Formulations",
+        "description": "Automated dry-mix formulation lines producing non-shrink precision grouts, tile adhesives, and repair mortars.",
+        "technicalSpecs": [
+          "Automated robotic bagging and palletizing lines (40 tons/hr)",
+          "In-house concrete durability and compressive strength testing lab"
+        ]
+      }
+    ],
+    "keyProducts": [
+      {
+        "name": "Prestressed I-Beams & Super-T Girders",
+        "category": "Transport Infrastructure",
+        "specification": "Spans to 36m, C60/75 compressive strength, prestressed 7-wire strands"
+      },
+      {
+        "name": "UHPC Architectural Cladding Panels",
+        "category": "Commercial Facades",
+        "specification": "Compressive strength >120 MPa, self-cleaning hydrophobic finishes"
+      },
+      {
+        "name": "High-Strength Non-Shrink Machinery Grout",
+        "category": "Industrial Chemicals",
+        "specification": "Early 24-hr strength >45 MPa, final 28-day strength >85 MPa"
+      }
+    ],
+    "featuredProjectSlugs": [
+      "modjo-dry-port-heavy-pavement-slabs"
+    ],
+    "downloadableBrochureUrl": "/brochures/asterra-div02-materials.pdf"
+  },
+  {
+    "slug": "polymers-engineered-composites",
+    "divisionCode": "DIV-03",
+    "name": "Industrial Polymers & Engineered Composites",
+    "tagline": "High-density polyethylene piping, industrial composite linings, and corrosion-resistant tanks",
+    "heroImage": "/images/divisions/div03-hero.jpg",
+    "facilityImage": "/images/divisions/div03-facility.jpg",
+    "overview": "Division 03 delivers high-grade thermoplastic extrusion, rotomolding, and continuous glass-fiber reinforced polymer (GFRP) composites. Serving municipal water utilities, mining processing facilities, and chemical industries, Division 03 manufactures pressure pipes up to 1,200mm diameter and custom chemically resistant containment systems.",
+    "facilityLocation": "Industrial Zone 4, Addis Ababa, Ethiopia",
+    "facilitySizeSqM": "10,000 m²",
+    "annualCapacity": "18,000 MT",
+    "workforceCount": "240 Polymer Engineers & Operators",
+    "certifications": [
+      "ISO 9001:2015",
+      "ISO 4427 Polyethylene Pipes for Water Supply",
+      "DIN 8074 / 8075 Standards"
+    ],
+    "capabilities": [
+      {
+        "id": "cap-08",
+        "title": "HDPE Pressure Pipe Extrusion",
+        "description": "Continuous high-speed extrusion lines for PE100 and PE100-RC pipe diameters from 20mm to 1,200mm.",
+        "technicalSpecs": [
+          "3 High-torque KraussMaffei extrusion lines with ultrasonic wall-thickness scanning",
+          "Pressure rating up to PN25 with 100-year design lifecycle",
+          "Co-extruded abrasion-resistant interior liner options"
+        ]
+      },
+      {
+        "id": "cap-09",
+        "title": "Large-Scale Rotomolding & Chemical Tanks",
+        "description": "Seamless rotational molding for industrial acid, fuel, and municipal water containment up to 25,000 liters.",
+        "technicalSpecs": [
+          "Biaxial multi-arm carousel rotomolding machines with CNC temperature profiling",
+          "UV-stabilized virgin polymer resin compounding",
+          "Hydrostatic pressure and drop-impact testing verification"
+        ]
+      }
+    ],
+    "keyProducts": [
+      {
+        "name": "PE100 Municipal Water Mains (OD 110mm - 1200mm)",
+        "category": "Water Utilities",
+        "specification": "SDR 11, 13.6, 17, 21; PN10, PN16, PN20 pressure ratings"
+      },
+      {
+        "name": "Heavy Industrial Chemical Storage Vessels",
+        "category": "Industrial Containment",
+        "specification": "Capacities from 5,000L to 25,000L, cross-linked HDPE lining"
+      }
+    ],
+    "featuredProjectSlugs": [
+      "somali-region-water-distribution-main"
+    ],
+    "downloadableBrochureUrl": "/brochures/asterra-div03-polymers.pdf"
+  },
+  {
+    "slug": "automated-equipment-assemblies",
+    "divisionCode": "DIV-04",
+    "name": "Automated Equipment & Contract Assemblies",
+    "tagline": "Precision mechanical assemblies, industrial conveyors, and automated material handling systems",
+    "heroImage": "/images/divisions/div04-hero.jpg",
+    "facilityImage": "/images/divisions/div04-facility.jpg",
+    "overview": "Division 04 provides comprehensive contract manufacturing and electromechanical integration for industrial machinery, bulk material conveyor systems, and custom automation cells. Operating clean assembly bays and multi-axis CNC milling centers, this division delivers turn-key sub-assemblies for regional agro-processing and industrial plants.",
+    "facilityLocation": "Industrial Zone 4, Addis Ababa, Ethiopia",
+    "facilitySizeSqM": "8,000 m²",
+    "annualCapacity": "12,000 MT / 450 Assemblies",
+    "workforceCount": "210 Automation & Mechanical Engineers",
+    "certifications": [
+      "ISO 9001:2015",
+      "IEC 60204-1 Safety of Machinery",
+      "CE Compliance for Export Assemblies"
+    ],
+    "capabilities": [
+      {
+        "id": "cap-10",
+        "title": "5-Axis CNC Precision Machining",
+        "description": "High-precision milling, turning, and gear cutting for industrial drivetrains, shafts, and custom valve blocks.",
+        "technicalSpecs": [
+          "Haas 5-Axis CNC Machining Centers with 5-micron position repeatability",
+          "CNC Lathes with live tooling and 3m turning length",
+          "CMM Coordinate Measuring Machine for 3D geometric verification"
+        ]
+      },
+      {
+        "id": "cap-11",
+        "title": "Electromechanical Integration & Factory Acceptance Testing (FAT)",
+        "description": "Full assembly of motorized conveyors, hydraulic power units, and PLC-controlled sorting machinery.",
+        "technicalSpecs": [
+          "Clean-room wiring, hydraulic pressure testing to 350 bar",
+          "Full load test runs and FAT certification prior to dispatch"
+        ]
+      }
+    ],
+    "keyProducts": [
+      {
+        "name": "Heavy Overland Belt Conveyor Systems",
+        "category": "Material Handling",
+        "specification": "Capacity up to 2,500 MT/hr, widths from 800mm to 1,600mm"
+      },
+      {
+        "name": "Industrial Hydraulic Power Units & Manifolds",
+        "category": "Fluid Power",
+        "specification": "Working pressures up to 350 bar with proportional servo controls"
+      }
+    ],
+    "featuredProjectSlugs": [
+      "dire-dawa-industrial-steel-terminal"
+    ],
+    "downloadableBrochureUrl": "/brochures/asterra-div04-automation.pdf"
+  }
+]
